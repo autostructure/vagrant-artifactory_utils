@@ -1,0 +1,1 @@
+# vagrant-artifactory_ha
